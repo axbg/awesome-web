@@ -2,8 +2,6 @@
 ##### a never-ending list of web apps that rock!
 ###### project inspired by [eduardbudacu's](https://github.com/eduardbudacu) [awesome-csie](https://github.com/eduardbudacu/awesome-csie) repository.
 #
-#
-#
 #### Here we go!
 
 * [Photopea](https://www.photopea.com/) - Photoshop, but on the web
