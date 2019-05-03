@@ -11,3 +11,6 @@
 * [30 Seconds of Knowledge](https://30secondsofknowledge.com/) - learn something new everytime you open your browser
 * [Tab For A Cause](https://tab.gladly.io/) - open new tabs and raise money for charity
 * [OverAPI](http://overapi.com/) - next level cheat sheets on programming topics
+* [Culrs](https://culrs.com/#/) - choose your colors the right way
+* [What Web Can Do Today](https://whatwebcando.today/) - in case you wondered: yep, web is awesome!
+* [Unsplash](https://unsplash.com/) & [Pexels](https://www.pexels.com/) - never search for "stock photos" again
