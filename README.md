@@ -14,3 +14,5 @@
 * [Culrs](https://culrs.com/#/) - choose your colors the right way
 * [What Web Can Do Today](https://whatwebcando.today/) - in case you wondered: yep, web is awesome!
 * [Unsplash](https://unsplash.com/) & [Pexels](https://www.pexels.com/) - never search for "stock photos" again
+* [DB Designer](https://www.dbdesigner.net/) - design your database in an instant
+* [Penint](http://seoi.net/penint/) - draw anything you like! - or not
