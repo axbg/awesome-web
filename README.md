@@ -17,3 +17,5 @@
 * [DB Designer](https://www.dbdesigner.net/) - design your database in an instant
 * [Penint](http://seoi.net/penint/) - draw anything you like! - or not
 * [Dillinger](https://dillinger.io/) - unconfusing Markdown since day 1
+* [Draw.io](https://www.draw.io/) - stop using Paint to create your diagrams
+* [Sketchpad](https://sketch.io) - a PWA that makes doodling easier than ever
