@@ -16,3 +16,4 @@
 * [Unsplash](https://unsplash.com/) & [Pexels](https://www.pexels.com/) - never search for "stock photos" again
 * [DB Designer](https://www.dbdesigner.net/) - design your database in an instant
 * [Penint](http://seoi.net/penint/) - draw anything you like! - or not
+* [Dillinger](https://dillinger.io/) - unconfusing Markdown since day 1
