@@ -19,3 +19,4 @@
 * [Dillinger](https://dillinger.io/) - unconfusing Markdown since day 1
 * [Draw.io](https://www.draw.io/) - stop using Paint to create your diagrams
 * [Sketchpad](https://sketch.io) - a PWA that makes doodling easier than ever
+* [Virtual x86](https://copy.sh/v86/) - a mind-blowing platform that allows to emulate an OS in your browser
