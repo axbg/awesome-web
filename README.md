@@ -21,3 +21,4 @@
 * [Sketchpad](https://sketch.io) - a PWA that makes doodling easier than ever
 * [Virtual x86](https://copy.sh/v86/) - a mind-blowing platform that allows to emulate an OS in your browser
 * [Get A Room](https://getaroom.io/) - way too launch 'n' roll video-conference app
+* [WeTransfer](https://wetransfer.com/) - most popular login-free fileshare solution
