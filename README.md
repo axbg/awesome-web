@@ -24,3 +24,4 @@
 * [WeTransfer](https://wetransfer.com/) - most popular login-free fileshare solution
 * [Dictation.io](https://dictation.io) - ingenious speech-to-text tool
 * [Carbon](https://carbon.now.sh) - presentation-ready code formatter
+* [OnlineGDB](https://www.onlinegdb.com/) - almost-any-programming-language web-based playground
