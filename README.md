@@ -25,3 +25,4 @@
 * [Dictation.io](https://dictation.io) - ingenious speech-to-text tool
 * [Carbon](https://carbon.now.sh) - presentation-ready code formatter
 * [OnlineGDB](https://www.onlinegdb.com/) - almost-any-programming-language web-based playground
+* [Regulex](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24) - the right tool to understand that complicated JS RegEx
