@@ -28,3 +28,4 @@
 * [Regulex](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24) - the right tool to understand that complicated JS RegEx
 * [Can I Use](https://caniuse.com/) - check if the fancy stuff you want to use is really supported
 * [What The Font?](https://www.myfonts.com/WhatTheFont/) - look up that smooth-looking font directly from images
+* [JSON Formatter](https://jsonformatter.curiousconcept.com/) - yep, you could use a plugin, but a website sometimes seems snappier, doesn't it?
