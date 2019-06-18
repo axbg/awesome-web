@@ -29,3 +29,4 @@
 * [Can I Use](https://caniuse.com/) - check if the fancy stuff you want to use is really supported
 * [What The Font?](https://www.myfonts.com/WhatTheFont/) - look up that smooth-looking font directly from images
 * [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/) - yep, you could use a plugin, but a website sometimes seems snappier, doesn't it?
+* [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - actually, an extension, but still web-based 
