@@ -31,3 +31,4 @@
 * [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/) - yep, you could use a plugin, but a website sometimes seems snappier, doesn't it?
 * [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - actually, an extension, but still web-based 
 * [Choose a license](https://choosealicense.com/) - everything you need to know about licensing your work in an open-source way
+* [Hatchful](https://hatchful.shopify.com/) - create a pretty cool logo in no time
