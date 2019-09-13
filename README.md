@@ -33,3 +33,4 @@
 * [Choose a license](https://choosealicense.com/) - everything you need to know about licensing your work in an open-source way
 * [Hatchful](https://hatchful.shopify.com/) - create a pretty cool logo in no time
 * [Slides](https://slides.com/) - probably the sleekest presentations builder on the block
+* [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) - never use Paint for color picking again
