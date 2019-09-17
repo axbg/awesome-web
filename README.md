@@ -34,3 +34,4 @@
 * [Hatchful](https://hatchful.shopify.com/) - create a pretty cool logo in no time
 * [Slides](https://slides.com/) - probably the sleekest presentations builder on the block
 * [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) - never use Paint for color picking again
+* [ASCII Text Signature](https://www.kammerl.de/ascii/AsciiSignature.php) - yep. that cool signature in the last CLI app you've used. make yours here
