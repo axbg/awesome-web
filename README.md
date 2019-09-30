@@ -36,3 +36,4 @@
 * [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) - never use Paint for color picking again
 * [ASCII Text Signature](https://www.kammerl.de/ascii/AsciiSignature.php) - yep. that cool signature in the last CLI app you've used. make yours here
 * [ServiceWorker Cookbook](https://serviceworke.rs) - upgrade your service worker skillz
+* [Google Developers](https://developers.google.com/) - latest news from Google = latest news about the web
