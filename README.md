@@ -37,3 +37,4 @@
 * [ASCII Text Signature](https://www.kammerl.de/ascii/AsciiSignature.php) - yep. that cool signature in the last CLI app you've used. make yours here
 * [ServiceWorker Cookbook](https://serviceworke.rs) - upgrade your service worker skillz
 * [Google Developers](https://developers.google.com/) - latest news from Google = latest news about the web
+* [SQL Tryit Editor](https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in) - a classic, yet one of the most efficient SQL playgrounds on the web
