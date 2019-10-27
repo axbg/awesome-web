@@ -1,5 +1,5 @@
 # Awesome Web
-##### a never-ending list of web apps that rock!
+##### a never-ending list of web-ish apps that rock!
 ###### project inspired by [eduardbudacu's](https://github.com/eduardbudacu) [awesome-csie](https://github.com/eduardbudacu/awesome-csie) repository.
 #
 #### Here we go!
@@ -39,3 +39,4 @@
 * [Google Developers](https://developers.google.com/) - latest news from Google = latest news about the web
 * [SQL Tryit Editor](https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in) - a classic, yet one of the most efficient SQL playgrounds on the web
 * [Gitpod](https://gitpod.io) - full dev experience in the browser
+* [Strapi](https://strapi.io/) - back-end development on steroids - a little bit too perfect for hackathons!
