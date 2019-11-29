@@ -40,3 +40,4 @@
 * [Gitpod](https://gitpod.io) - full dev experience in the browser
 * [Strapi](https://strapi.io/) - back-end development on steroids - a little bit too perfect for hackathons!
 * [Khroma](http://khroma.co/) - a neural-network-powered platform that generates beautiful pallettes based on your favorite colors
+* [EasyDB](https://easydb.io/) - need a db for dev without the fuss of deploying it? say no more
