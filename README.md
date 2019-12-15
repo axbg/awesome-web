@@ -42,3 +42,4 @@
 * [Khroma](http://khroma.co/) - a neural-network-powered platform that generates beautiful pallettes based on your favorite colors
 * [EasyDB](https://easydb.io/) - need a db for dev without the fuss of deploying it? say no more
 * [Teachable Machine](https://teachablemachine.withgoogle.com/) - Google strikes again: create, train and use a neural network model right in your browser
+* [Have I Been Pwned](https://haveibeenpwned.com/) - check if your e-mail is still your e-mail
