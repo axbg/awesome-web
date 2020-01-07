@@ -47,3 +47,4 @@
 * [File Hash Calculator](https://md5file.com/calculator) - not a stand-alone web app, but a useful tool to have your checksums straight 
 * [What Is](https://whatis.techtarget.com/) - top-notch definitions on IT management topics
 * [unDraw](https://undraw.co/) - free SVG illustrations for modern looking UIs
+* [HTTPS Everywhere](https://www.eff.org/https-everywhere) - because web should also be safe, not only fun
