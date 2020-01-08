@@ -49,3 +49,4 @@
 * [unDraw](https://undraw.co/) - free SVG illustrations for modern looking UIs
 * [HTTPS Everywhere](https://www.eff.org/https-everywhere) - because web should also be safe, not only fun
 * [Checklist Design](https://www.checklist.design/) - a little bit of help to NOT forget anything important
+* [City Map Wallpaper](https://alvarcarto.com/phone-background/generator) - generate beautiful bw phone wallpapers with your favorite city
