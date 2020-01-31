@@ -51,3 +51,5 @@
 * [Checklist Design](https://www.checklist.design/) - a little bit of help to NOT forget anything important
 * [City Map Wallpaper](https://alvarcarto.com/phone-background/generator) - generate beautiful bw phone wallpapers with your favorite city
 * [VirusTotal](https://www.virustotal.com/) - quick way to scan a file or a website using top-notch antivirus solutions
+* [Sketch2Code](https://sketch2code.azurewebsites.net/) - you can call your front dev friends while screaming that you don't need them anymore
+* [CityRoads](https://anvaka.github.io/city-roads/) - maybe your hometown will look nicer on a t-shirt than in reality
