@@ -55,3 +55,4 @@
 * [CityRoads](https://anvaka.github.io/city-roads/) - maybe your hometown will look nicer on a t-shirt than in reality
 * [Learn X in Y minutes](https://learnxinyminutes.com/) - or, at least, try
 * [GDPR Enforcement Tracker](https://www.enforcementtracker.com/) - if your app is not GDPR compliant, you'll probably see it here first
+* [Brutalist Websites](https://brutalistwebsites.com/) - an interesting, yet kinda disturbing collection of... not minimalist websites
