@@ -56,3 +56,4 @@
 * [Learn X in Y minutes](https://learnxinyminutes.com/) - or, at least, try
 * [GDPR Enforcement Tracker](https://www.enforcementtracker.com/) - if your app is not GDPR compliant, you'll probably see it here first
 * [Brutalist Websites](https://brutalistwebsites.com/) - an interesting, yet kinda disturbing collection of... not minimalist websites
+* [Winginx htaccess converter](https://winginx.com/en/htaccess) - saving your apache to nginx migrations since day 1
