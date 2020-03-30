@@ -58,4 +58,4 @@
 * [Brutalist Websites](https://brutalistwebsites.com/) - an interesting, yet kinda disturbing collection of... not minimalist websites
 * [Winginx htaccess converter](https://winginx.com/en/htaccess) - saving your apache to nginx migrations since day 1
 * [Downdetector](https://downdetector.com/) - is it down or just your cache?
-* [Linux Screenshots](http://linuxscreenshots.org/) - distro hopping never felt so tempting
+* [Distrochooser](https://beta.distrochooser.de/) - distro hopping never felt so tempting
