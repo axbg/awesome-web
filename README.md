@@ -61,3 +61,6 @@
 * [Distrochooser](https://beta.distrochooser.de/) - distro hopping never felt so tempting
 * [Faux Code Generator](http://knutsynstad.com/fauxcode/) - display your code, but, actually, don't
 * [Burn Link](https://burn.link/) - you can never be too paranoid when it comes to security
+* [Image Enlarger](https://imglarger.com/) - unofficial "screw blur" app
+* [Good First Issue](https://goodfirstissue.dev/) - disclaimer: it's still gonna be hard
+* [Background Eraser](https://bgeraser.com/) - gone are the days of paint's eraser 
