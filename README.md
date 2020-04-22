@@ -65,3 +65,4 @@
 * [Good First Issue](https://goodfirstissue.dev/) - disclaimer: it's still gonna be hard
 * [Background Eraser](https://bgeraser.com/) - gone are the days of paint's eraser 
 * [Image Recognize](https://imagerecognize.com/) - a rapid taste of AI image labeling capabilities
+* [OWASP Cheat Sheet](https://cheatsheetseries.owasp.org/?q=) - even though you're probably not building the next Google, security is more than important
