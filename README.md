@@ -69,3 +69,4 @@
 * [Netlify](https://www.netlify.com/) - your *sweet as JAM* website in one step
 * [Background Generator](https://background-generator.com/) - you won't need to search "pattern background" ever again
 * [everysize](https://everysize.kibalabs.com/) - screen-sizes on a single screen 
+* [ParallelText](http://paralleltext.io/) - a pretty interesting approach to learn a foreign language - if you like to read books
