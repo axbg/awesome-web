@@ -71,3 +71,6 @@
 * [everysize](https://everysize.kibalabs.com/) - screen-sizes on a single screen 
 * [ParallelText](http://paralleltext.io/) - a pretty interesting approach to learn a foreign language - if you like to read books
 * [Grammarly](https://grammarly.com) - even though it's pretty well advertised, it never ceases to amaze me
+* [1loc](https://1loc.dev/) - if you love Javascript and one-liners this is the place to be
+* [Scunthorpe Sans](https://vole.wtf/scunthorpe-sans/) - building a PG-oriented app was never easier 
+* [Quickref](https://quickref.dev/) - Google for devs - should I say more?
