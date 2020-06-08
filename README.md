@@ -74,3 +74,4 @@
 * [1loc](https://1loc.dev/) - if you love Javascript and one-liners this is the place to be
 * [Scunthorpe Sans](https://vole.wtf/scunthorpe-sans/) - building a PG-oriented app was never easier 
 * [Quickref](https://quickref.dev/) - Google for devs - should I say more?
+* [Linux Kernel Map](https://makelinux.github.io/kernel/map/) - an interactive map that will make you believe Linux was built by humans - or almost
