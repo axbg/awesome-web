@@ -77,3 +77,5 @@
 * [Linux Kernel Map](https://makelinux.github.io/kernel/map/) - an interactive map that will make you believe Linux was built by humans - or almost
 * [AST Explorer](https://astexplorer.net/) - first step to understand a compiler
 * [Docsketch](https://www.docsketch.com/online-signature/) - smoother than pen & paper
+* [Image Colorizer](https://imagecolorizer.com/) - the past may not be black & white after all
+* [tunnelto.dev](https://tunnelto.dev/) - ever shared your localhost with somebody else? well, it's legit now
