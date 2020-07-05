@@ -79,3 +79,4 @@
 * [Docsketch](https://www.docsketch.com/online-signature/) - smoother than pen & paper
 * [Image Colorizer](https://imagecolorizer.com/) - the past may not be black & white after all
 * [tunnelto.dev](https://tunnelto.dev/) - ever shared your localhost with somebody else? well, it's legit now
+* [NPM Dependencies Visualizer](https://npm.anvaka.com/) - it seems like you didn't build that app alone
