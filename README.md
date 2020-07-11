@@ -80,3 +80,4 @@
 * [Image Colorizer](https://imagecolorizer.com/) - the past may not be black & white after all
 * [tunnelto.dev](https://tunnelto.dev/) - ever shared your localhost with somebody else? well, it's legit now
 * [NPM Dependencies Visualizer](https://npm.anvaka.com/) - it seems like you didn't build that app alone
+* [daily.dev](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied) - latest tech news with each new tab 
