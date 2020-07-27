@@ -81,3 +81,4 @@
 * [tunnelto.dev](https://tunnelto.dev/) - ever shared your localhost with somebody else? well, it's legit now
 * [NPM Dependencies Visualizer](https://npm.anvaka.com/) - it seems like you didn't build that app alone
 * [daily.dev](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied) - latest tech news with each new tab 
+* [ASM x86 emulator](https://carlosrafaelgn.com.br/asm86/) - debug low level code in your browser: nice!
