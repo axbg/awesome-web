@@ -17,7 +17,6 @@
 * [Penint](http://seoi.net/penint/) - draw anything you like! - or not
 * [Dillinger](https://dillinger.io/) - unconfusing Markdown since day 1
 * [Draw.io](https://www.draw.io/) - stop using Paint to create your diagrams
-* [Sketchpad](https://sketch.io) - a PWA that makes doodling easier than ever
 * [Virtual x86](https://copy.sh/v86/) - a mind-blowing platform that allows to emulate an OS in your browser
 * [Get A Room](https://getaroom.io/) - way too launch 'n' roll video-conference app
 * [WeTransfer](https://wetransfer.com/) - most popular login-free fileshare solution
@@ -82,3 +81,4 @@
 * [NPM Dependencies Visualizer](https://npm.anvaka.com/) - it seems like you didn't build that app alone
 * [daily.dev](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied) - latest tech news with each new tab 
 * [ASM x86 emulator](https://carlosrafaelgn.com.br/asm86/) - debug low level code in your browser: nice!
+* [Excalidraw](https://excalidraw.com/) - it feels almost as natural as drawing without a cursor
