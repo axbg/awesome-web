@@ -82,3 +82,4 @@
 * [daily.dev](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied) - latest tech news with each new tab 
 * [ASM x86 emulator](https://carlosrafaelgn.com.br/asm86/) - debug low level code in your browser: nice!
 * [Excalidraw](https://excalidraw.com/) - it feels almost as natural as drawing without a cursor
+* [Unscreen](https://www.unscreen.com/) - forget about quick selection tool
