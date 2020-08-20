@@ -84,3 +84,4 @@
 * [Excalidraw](https://excalidraw.com/) - it feels almost as natural as drawing without a cursor
 * [Unscreen](https://www.unscreen.com/) - forget about quick selection tool
 * [Startpage](https://startpage.com/) - Google results without ads & data mining? yes, thanks! 
+* [findJAR](https://www.findjar.com/) - making Java a little bit more enjoyable
