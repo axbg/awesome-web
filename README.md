@@ -85,3 +85,4 @@
 * [Unscreen](https://www.unscreen.com/) - forget about quick selection tool
 * [Startpage](https://startpage.com/) - Google results without ads & data mining? yes, thanks! 
 * [findJAR](https://www.findjar.com/) - making Java a little bit more enjoyable
+* [Security Checklist](https://securitycheckli.st/) - better safe than sorry
