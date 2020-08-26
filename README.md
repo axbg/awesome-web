@@ -85,4 +85,6 @@
 * [Unscreen](https://www.unscreen.com/) - forget about quick selection tool
 * [Startpage](https://startpage.com/) - Google results without ads & data mining? yes, thanks! 
 * [findJAR](https://www.findjar.com/) - making Java a little bit more enjoyable
-* [Security Checklist](https://securitycheckli.st/) - better safe than sorry
+* [FreeGeoIP](https://freegeoip.app/) - creepin' on your visitors it's not nice, but sometimes it may be useful - and it's basically free
+* [Talky](https://talky.io/) - a pretty clean showcase of what WebRTC can do
+* [npoint](https://www.npoint.io/) - high quality JSON mocks - do it good, not just fast
