@@ -88,3 +88,4 @@
 * [FreeGeoIP](https://freegeoip.app/) - creepin' on your visitors it's not nice, but sometimes it may be useful - and it's basically free
 * [Talky](https://talky.io/) - a pretty clean showcase of what WebRTC can do
 * [npoint](https://www.npoint.io/) - high quality JSON mocks - do it good, not just fast
+* [UI Playbook](https://uiplaybook.dev/) - a perfect guide on components & UI for devs who cannot do UI (myself included)
