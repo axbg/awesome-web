@@ -91,3 +91,4 @@
 * [UI Playbook](https://uiplaybook.dev/) - a perfect guide on components & UI for devs who cannot do UI (myself included)
 * [Color Hex](https://www.colorhexa.com/) - lots of colors - now organized!
 * [Teach Yourself CS](https://teachyourselfcs.com/) - not quite a platform, but provides enough information to step up your CS game
+* [degoogle](https://degoogle.jmoore.dev/) - I'm not saying Google is that bad, but :) 
