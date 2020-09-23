@@ -92,3 +92,4 @@
 * [Color Hex](https://www.colorhexa.com/) - lots of colors - now organized!
 * [Teach Yourself CS](https://teachyourselfcs.com/) - not quite a platform, but provides enough information to step up your CS game
 * [degoogle](https://degoogle.jmoore.dev/) - I'm not saying Google is that bad, but :) 
+* [devdocs](https://devdocs.io/) - the only docs platform you'll ever need
