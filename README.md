@@ -13,7 +13,6 @@
 * [Culrs](https://culrs.com/#/) - choose your colors the right way
 * [What Web Can Do Today](https://whatwebcando.today/) - in case you wondered: yep, web is awesome!
 * [Unsplash](https://unsplash.com/) & [Pexels](https://www.pexels.com/) - never search for "stock photos" again
-* [DB Designer](https://www.dbdesigner.net/) - design your database in an instant
 * [Penint](http://seoi.net/penint/) - draw anything you like! - or not
 * [Dillinger](https://dillinger.io/) - unconfusing Markdown since day 1
 * [Draw.io](https://www.draw.io/) - stop using Paint to create your diagrams
@@ -93,3 +92,4 @@
 * [Teach Yourself CS](https://teachyourselfcs.com/) - not quite a platform, but provides enough information to step up your CS game
 * [degoogle](https://degoogle.jmoore.dev/) - I'm not saying Google is that bad, but :) 
 * [devdocs](https://devdocs.io/) - the only docs platform you'll ever need
+* [dbdiagram.ip](https://dbdiagram.io/) - design your database in an instant - now with code
