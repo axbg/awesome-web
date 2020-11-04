@@ -92,5 +92,5 @@
 * [Teach Yourself CS](https://teachyourselfcs.com/) - not quite a platform, but provides enough information to step up your CS game
 * [degoogle](https://degoogle.jmoore.dev/) - I'm not saying Google is that bad, but :) 
 * [devdocs](https://devdocs.io/) - the only docs platform you'll ever need
-* [dbdiagram.ip](https://dbdiagram.io/) - design your database in an instant - now with code
+* [dbdiagram.io](https://dbdiagram.io/) - design your database in an instant - now with code
 * [TypeLit](https://www.typelit.io/) - a nice(r) approach to improve your typing speed and accuracy
