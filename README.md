@@ -94,3 +94,4 @@
 * [devdocs](https://devdocs.io/) - the only docs platform you'll ever need
 * [dbdiagram.io](https://dbdiagram.io/) - design your database in an instant - now with code
 * [TypeLit](https://www.typelit.io/) - a nice(r) approach to improve your typing speed and accuracy
+* [FontOfWeb](https://fontofweb.com/) - easy font scanning for web
