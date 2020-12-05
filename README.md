@@ -97,3 +97,4 @@
 * [FontOfWeb](https://fontofweb.com/) - easy font scanning for web
 * [OSINT Framework](https://osintframework.com/) - OSINT made eas.. ier
 * [Operator Lookup](https://www.joshwcomeau.com/operator-lookup/) - a fast way to refresh your knowledge about a particular JS operator
+* [A-Packets](https://apackets.com/) - a fancy pcap interpreter - see how computers talk!
