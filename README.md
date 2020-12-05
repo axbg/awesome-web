@@ -96,3 +96,4 @@
 * [TypeLit](https://www.typelit.io/) - a nice(r) approach to improve your typing speed and accuracy
 * [FontOfWeb](https://fontofweb.com/) - easy font scanning for web
 * [OSINT Framework](https://osintframework.com/) - OSINT made eas.. ier
+* [Operator Lookup](https://www.joshwcomeau.com/operator-lookup/) - a fast way to refresh your knowledge about a particular JS operator
