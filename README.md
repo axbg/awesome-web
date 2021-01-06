@@ -83,3 +83,4 @@
 * [FontOfWeb](https://fontofweb.com/) - easy font scanning for web
 * [OSINT Framework](https://osintframework.com/) - OSINT made eas.. ier
 * [A-Packets](https://apackets.com/) - a fancy pcap interpreter - see how computers talk!
+* [EStimator](https://estimator.dev) - js is good, but can be even better
