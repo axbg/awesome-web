@@ -85,3 +85,4 @@
 * [A-Packets](https://apackets.com/) - a fancy pcap interpreter - see how computers talk!
 * [EStimator](https://estimator.dev) - js is good, but can be even better
 * [CSS Stats](https://cssstats.com/) - visualize CSS... in another way
+* [CoverYourTracks](https://coveryourtracks.eff.org/) - check your browser - others are already doing it 
