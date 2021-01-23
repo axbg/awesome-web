@@ -86,3 +86,4 @@
 * [EStimator](https://estimator.dev) - js is good, but can be even better
 * [CSS Stats](https://cssstats.com/) - visualize CSS... in another way
 * [CoverYourTracks](https://coveryourtracks.eff.org/) - check your browser - others are already doing it 
+* [Image Steganography](https://incoherency.co.uk/image-steganography/) - the easiest way to embed or to detect basic LSB steganography
