@@ -87,3 +87,6 @@
 * [CSS Stats](https://cssstats.com/) - visualize CSS... in another way
 * [CoverYourTracks](https://coveryourtracks.eff.org/) - check your browser - others are already doing it 
 * [Image Steganography](https://incoherency.co.uk/image-steganography/) - the easiest way to embed or to detect basic LSB steganography
+* [Omatsuri](https://omatsuri.app/) - the Swiss Army knife for beautiful UI
+* [Deskreen](https://deskreen.com/) - wipe the dust off that old tablet that you bought and never touched afterward
+* [Courier](https://www.courier.com/) - one API to rule all the notifications platforms
