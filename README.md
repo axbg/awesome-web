@@ -52,7 +52,6 @@
 * [Burn Link](https://burn.link/) - you can never be too paranoid when it comes to security
 * [Image Enlarger](https://imglarger.com/) - unofficial "screw blur" app
 * [Good First Issue](https://goodfirstissue.dev/) - disclaimer: it's still gonna be hard
-* [Background Eraser](https://bgeraser.com/) - gone are the days of paint's eraser 
 * [Image Recognize](https://imagerecognize.com/) - a rapid taste of AI image labeling capabilities
 * [OWASP Cheat Sheet](https://cheatsheetseries.owasp.org/?q=) - even though you're probably not building the next Google, security is more than important
 * [Netlify](https://www.netlify.com/) - your *sweet as JAM* website in one step
@@ -90,3 +89,4 @@
 * [Omatsuri](https://omatsuri.app/) - the Swiss Army knife for beautiful UI
 * [Deskreen](https://deskreen.com/) - wipe the dust off that old tablet that you bought and never touched afterward
 * [Courier](https://www.courier.com/) - one API to rule all the notifications platforms
+* [remove.bg](https://www.remove.bg) - quick selection tool no more
