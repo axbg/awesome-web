@@ -95,3 +95,4 @@
 * [public-apis](https://public-apis.io/) - a great source of inspiration for your next week-end project
 * [TRACK](https://demos.littleworkshop.fr/track) - a WebGL tour de force
 * [Click](https://clickclickclick.click/) - your browser just became self-aware
+* [Devbook](https://usedevbook.com/) - not quite web-y, but powered by the web nonetheless - fast answers for tricky questions
