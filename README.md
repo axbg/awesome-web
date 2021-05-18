@@ -96,3 +96,4 @@
 * [TRACK](https://demos.littleworkshop.fr/track) - a WebGL tour de force
 * [Click](https://clickclickclick.click/) - your browser just became self-aware
 * [Devbook](https://usedevbook.com/) - not quite web-y, but powered by the web nonetheless - fast answers for tricky questions
+* [terminal.sexy](https://terminal.sexy/) - the first step into the customization rabbit hole
