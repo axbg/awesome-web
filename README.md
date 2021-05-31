@@ -97,3 +97,5 @@
 * [Click](https://clickclickclick.click/) - your browser just became self-aware
 * [Devbook](https://usedevbook.com/) - not quite web-y, but powered by the web nonetheless - fast answers for tricky questions
 * [terminal.sexy](https://terminal.sexy/) - the first step into the customization rabbit hole
+* [Generated Photos](https://generated.photos/) - it might look like someone you know, but it definitely isn't
+* [ClearURLs](https://docs.clearurls.xyz/latest/) - a little bit more privacy is never a bad thing
