@@ -99,3 +99,4 @@
 * [terminal.sexy](https://terminal.sexy/) - the first step into the customization rabbit hole
 * [Generated Photos](https://generated.photos/) - it might look like someone you know, but it definitely isn't
 * [ClearURLs](https://docs.clearurls.xyz/latest/) - a little bit more privacy is never a bad thing
+* [Ninite](https://ninite.com) - windows + auto apps install = less next-next-finish
