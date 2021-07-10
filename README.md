@@ -101,3 +101,4 @@
 * [ClearURLs](https://docs.clearurls.xyz/latest/) - a little bit more privacy is never a bad thing
 * [Ninite](https://ninite.com) - windows + auto apps install = less next-next-finish
 * [transfer.sh](https://transfer.sh) - a solid tool, as long as you don't use it to share private keys between your computers
+* [Tinter](https://tinter.uxie.io) - you didn't even know that you need a tool that does that
