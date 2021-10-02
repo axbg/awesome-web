@@ -104,3 +104,4 @@
 * [Tinter](https://tinter.uxie.io) - you didn't even know that you need a tool that does that
 * [JSONPath](https://jsonpath.com/) - so simple, so sweet
 * [ICANN Lookup](https://lookup.icann.org/) - with more domains come... more chances to forget their registrar
+* [Crontab Guru](https://crontab.guru/) - I know, I know, cron schedule expressions are not that hard, but still 
