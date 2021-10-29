@@ -14,7 +14,7 @@
 * [Unsplash](https://unsplash.com/) & [Pexels](https://www.pexels.com/) - never search for "stock photos" again
 * [Penint](http://seoi.net/penint/) - draw anything you like! - or not
 * [Dillinger](https://dillinger.io/) - unconfusing Markdown since day 1
-* [Draw.io](https://www.draw.io/) - stop using Paint to create your diagrams
+* [Diagrams](https://www.diagrams.net/) - stop using Paint to create your diagrams
 * [Virtual x86](https://copy.sh/v86/) - a mind-blowing platform that allows to emulate an OS in your browser
 * [Carbon](https://carbon.now.sh) - presentation-ready code formatter
 * [OnlineGDB](https://www.onlinegdb.com/) - almost-any-programming-language web-based playground
@@ -57,7 +57,6 @@
 * [Netlify](https://www.netlify.com/) - your *sweet as JAM* website in one step
 * [Background Generator](https://background-generator.com/) - you won't need to search "pattern background" ever again
 * [everysize](https://everysize.kibalabs.com/) - screen-sizes on a single screen 
-* [ParallelText](http://paralleltext.io/) - a pretty interesting approach to learn a foreign language - if you like to read books
 * [Grammarly](https://grammarly.com) - even though it's pretty well advertised, it never ceases to amaze me
 * [Scunthorpe Sans](https://vole.wtf/scunthorpe-sans/) - building a PG-oriented app was never easier 
 * [Quickref](https://quickref.dev/) - Google for devs - should I say more?
@@ -91,7 +90,6 @@
 * [Courier](https://www.courier.com/) - one API to rule all the notifications platforms
 * [remove.bg](https://www.remove.bg) - quick selection tool no more
 * [free-for-dev](https://free-for.dev) - if you love both dev things and free things you're welcome
-* [github.surf](https://github.surf/axbg/awesome-web) - GitHub repos with VSCode flavor - you don't need more than a browser!
 * [public-apis](https://public-apis.io/) - a great source of inspiration for your next week-end project
 * [TRACK](https://demos.littleworkshop.fr/track) - a WebGL tour de force
 * [Click](https://clickclickclick.click/) - your browser just became self-aware
