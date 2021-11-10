@@ -103,3 +103,4 @@
 * [JSONPath](https://jsonpath.com/) - so simple, so sweet
 * [ICANN Lookup](https://lookup.icann.org/) - with more domains come... more chances to forget their registrar
 * [Crontab Guru](https://crontab.guru/) - I know, I know, cron schedule expressions are not that hard, but still 
+* [monkeytype](https://monkeytype.com/) - probably the only skill you can flex on your friends as a programmer
