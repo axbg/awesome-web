@@ -105,3 +105,4 @@
 * [Crontab Guru](https://crontab.guru/) - I know, I know, cron schedule expressions are not that hard, but still 
 * [monkeytype](https://monkeytype.com/) - probably the only skill you can flex on your friends as a programmer
 * [Window Snap](https://www.window-swap.com/) - sometimes the Internet is a magical place - or window, in this case
+* [Every Noise](https://everynoise.com/) - you might even discover your new favorite genre 
