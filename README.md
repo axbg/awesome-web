@@ -107,3 +107,6 @@
 * [Window Snap](https://www.window-swap.com/) - sometimes the Internet is a magical place - or window, in this case
 * [Every Noise](https://everynoise.com/) - you might even discover your new favorite genre 
 * [CyberChef](https://gchq.github.io/CyberChef/) - you can do easy CTFs on the go now
+* [Where is this](https://www.where-is-this.com/) - reverse image search might work just fine, but this is way cooler
+* [Guerilla Mail](https://www.guerrillamail.com/) - how 'bout a disposable e-mail? it can come in handy
+* [A Soft Murmur](https://asoftmurmur.com/) - when you want to be somewhere else, or maybe just to have something nice in the background 
