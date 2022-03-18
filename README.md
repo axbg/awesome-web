@@ -106,3 +106,4 @@
 * [monkeytype](https://monkeytype.com/) - probably the only skill you can flex on your friends as a programmer
 * [Window Snap](https://www.window-swap.com/) - sometimes the Internet is a magical place - or window, in this case
 * [Every Noise](https://everynoise.com/) - you might even discover your new favorite genre 
+* [CyberChef](https://gchq.github.io/CyberChef/) - you can do easy CTFs on the go now
