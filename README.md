@@ -111,3 +111,4 @@
 * [Guerilla Mail](https://www.guerrillamail.com/) - how 'bout a disposable e-mail? it can come in handy
 * [A Soft Murmur](https://asoftmurmur.com/) - when you want to be somewhere else, or maybe just to have something nice in the background 
 * [rpilocator](https://rpilocator.com/) - even with help, finding an rpis is still hard work 🥲
+* [Leopard.js](https://leopardjs.com/) - a very cool platform that can be used to convert Scratch projects to HTML/CSS/JS
