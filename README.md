@@ -112,3 +112,4 @@
 * [A Soft Murmur](https://asoftmurmur.com/) - when you want to be somewhere else, or maybe just to have something nice in the background 
 * [rpilocator](https://rpilocator.com/) - even with help, finding an rpis is still hard work 🥲
 * [Leopard.js](https://leopardjs.com/) - a very cool platform that can be used to convert Scratch projects to HTML/CSS/JS
+* [Will it CORS?](https://httptoolkit.com/will-it-cors/) - providing a quick answer for the question that always shows up uninvited
