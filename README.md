@@ -59,7 +59,6 @@
 * [everysize](https://everysize.kibalabs.com/) - screen-sizes on a single screen 
 * [Grammarly](https://grammarly.com) - even though it's pretty well advertised, it never ceases to amaze me
 * [Scunthorpe Sans](https://vole.wtf/scunthorpe-sans/) - building a PG-oriented app was never easier 
-* [Quickref](https://quickref.dev/) - Google for devs - should I say more?
 * [Linux Kernel Map](https://makelinux.github.io/kernel/map/) - an interactive map that will make you believe Linux was built by humans - or almost
 * [AST Explorer](https://astexplorer.net/) - first step to understand a compiler
 * [Docsketch](https://www.docsketch.com/online-signature/) - smoother than pen & paper
@@ -93,8 +92,7 @@
 * [public-apis](https://public-apis.io/) - a great source of inspiration for your next week-end project
 * [TRACK](https://demos.littleworkshop.fr/track) - a WebGL tour de force
 * [Click](https://clickclickclick.click/) - your browser just became self-aware
-* [Devbook](https://usedevbook.com/) - not quite web-y, but powered by the web nonetheless - fast answers for tricky questions
-* [terminal.sexy](https://terminal.sexy/) - the first step into the customization rabbit hole
+* [terminal.sexy](https://terminal.sexy/) - the first step into the terminal customization rabbit hole
 * [Generated Photos](https://generated.photos/) - it might look like someone you know, but it definitely isn't
 * [ClearURLs](https://docs.clearurls.xyz/latest/) - a little bit more privacy is never a bad thing
 * [Ninite](https://ninite.com) - windows + auto apps install = less next-next-finish
@@ -110,6 +108,9 @@
 * [Where is this](https://www.where-is-this.com/) - reverse image search might work just fine, but this is way cooler
 * [Guerilla Mail](https://www.guerrillamail.com/) - how 'bout a disposable e-mail? it can come in handy
 * [A Soft Murmur](https://asoftmurmur.com/) - when you want to be somewhere else, or maybe just to have something nice in the background 
-* [rpilocator](https://rpilocator.com/) - even with help, finding an rpis is still hard work 🥲
+* [rpilocator](https://rpilocator.com/) - even with help, finding an rpi is still hard work 🥲
 * [Leopard.js](https://leopardjs.com/) - a very cool platform that can be used to convert Scratch projects to HTML/CSS/JS
 * [Will it CORS?](https://httptoolkit.com/will-it-cors/) - providing a quick answer for the question that always shows up uninvited
+* [Tech Interview Handbook](https://www.techinterviewhandbook.org/) - new job opportunities? better get ready for the interview!
+* [Pathfinding Visualizer](https://pathfinding-visualizer-nu.vercel.app/) - even if you're familiar with Djikstra and A*, pathfinding visualizers are magically awesome! 
+* [ntfy.sh](https://ntfy.sh/) - a truly free & open-source pub-sub notification service which is also CLI friendly
