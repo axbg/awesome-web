@@ -114,3 +114,4 @@
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/) - new job opportunities? better get ready for the interview!
 * [Pathfinding Visualizer](https://pathfinding-visualizer-nu.vercel.app/) - even if you're familiar with Djikstra and A*, pathfinding visualizers are magically awesome! 
 * [ntfy.sh](https://ntfy.sh/) - a truly free & open-source pub-sub notification service which is also CLI friendly
+* [Infinite Mac](https://infinitemac.org/) - I grew up on Windows, but I can still be nostalgic about macOS
