@@ -116,3 +116,4 @@
 * [ntfy.sh](https://ntfy.sh/) - a truly free & open-source pub-sub notification service which is also CLI friendly
 * [Infinite Mac](https://infinitemac.org/) - I grew up on Windows, but I can still be nostalgic about macOS
 * [SD Toolset](https://sdtools.org/) - a nice Stable Diffusion dictionary for noobs like me
+* [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth/#240) - the place where I live was once a glacier: kinda cool, but kinda weird to think about it
