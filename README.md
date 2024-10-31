@@ -111,3 +111,4 @@
 * [keep.sh](https://www.keep.sh/) - Simple upload/download directly from your terminal
 * [verylegit.link](https://github.com/defaultnamehere/verylegit.link) - the kind of project I'm pretty shocked I didn't build myself
 * [archive.today](https://archive.is/) - the next level of "maybe I'll need it later"
+* [NAT Type Checker](https://www.checkmynat.com/) - understand your network a little bit better (very useful when working with p2p connections)
